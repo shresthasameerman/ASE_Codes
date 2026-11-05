@@ -1,6 +1,6 @@
 # ASE Codes
 
-A collection of C# projects and exercises created for application software engineering practice.
+A collection of C# projects and exercises created for advance software engineering practice.
 
 ## Projects
 
