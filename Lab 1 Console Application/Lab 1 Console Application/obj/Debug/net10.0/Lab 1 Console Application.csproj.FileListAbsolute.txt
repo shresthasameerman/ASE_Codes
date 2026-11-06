@@ -1,0 +1,15 @@
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\bin\Debug\net10.0\Lab 1 Console Application.exe
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\bin\Debug\net10.0\Lab 1 Console Application.deps.json
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\bin\Debug\net10.0\Lab 1 Console Application.runtimeconfig.json
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\bin\Debug\net10.0\Lab 1 Console Application.dll
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\bin\Debug\net10.0\Lab 1 Console Application.pdb
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\obj\Debug\net10.0\Lab 1 Console Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\obj\Debug\net10.0\Lab 1 Console Application.AssemblyInfoInputs.cache
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\obj\Debug\net10.0\Lab 1 Console Application.AssemblyInfo.cs
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\obj\Debug\net10.0\Lab 1 Console Application.csproj.CoreCompileInputs.cache
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\obj\Debug\net10.0\Lab 1 Console Application.dll
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\obj\Debug\net10.0\refint\Lab 1 Console Application.dll
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\obj\Debug\net10.0\Lab 1 Console Application.pdb
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\obj\Debug\net10.0\Lab 1 Console Application.genruntimeconfig.cache
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\obj\Debug\net10.0\ref\Lab 1 Console Application.dll
+C:\Users\shres\source\repos\Lab 1 Console Application\Lab 1 Console Application\obj\Debug\net10.0\Lab 1 Co.DDAA4C8F.Up2Date

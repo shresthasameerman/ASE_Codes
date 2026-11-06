@@ -1,0 +1,17 @@
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\bin\Debug\net10.0-windows\linesandshapes.exe
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\bin\Debug\net10.0-windows\linesandshapes.deps.json
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\bin\Debug\net10.0-windows\linesandshapes.runtimeconfig.json
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\bin\Debug\net10.0-windows\linesandshapes.dll
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\bin\Debug\net10.0-windows\linesandshapes.pdb
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\obj\Debug\net10.0-windows\linesandshapes.Form1.resources
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\obj\Debug\net10.0-windows\linesandshapes.csproj.GenerateResource.cache
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\obj\Debug\net10.0-windows\linesandshapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\obj\Debug\net10.0-windows\linesandshapes.AssemblyInfoInputs.cache
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\obj\Debug\net10.0-windows\linesandshapes.AssemblyInfo.cs
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\obj\Debug\net10.0-windows\linesandshapes.csproj.CoreCompileInputs.cache
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\obj\Debug\net10.0-windows\linesandshapes.dll
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\obj\Debug\net10.0-windows\refint\linesandshapes.dll
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\obj\Debug\net10.0-windows\linesandshapes.pdb
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\obj\Debug\net10.0-windows\linesandshapes.genruntimeconfig.cache
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\obj\Debug\net10.0-windows\ref\linesandshapes.dll
+C:\Users\shres\source\repos\linesandshapes\linesandshapes\obj\Debug\net10.0-windows\linesand.74528354.Up2Date
